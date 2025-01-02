@@ -1,1 +1,1 @@
-# customer-segmentation
+Developed customer segmentation models to improve targeted marketing strategies. The project applied clustering algorithms (K-means, DBSCAN) with PCA for dimensionality reduction, enabling actionable insights for business decision-making. Key results included identifying distinct customer groups, improving customer engagement, and driving data-informed marketing strategies.
